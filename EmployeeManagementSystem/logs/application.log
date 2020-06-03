@@ -1,0 +1,13 @@
+2020-06-03 07:05:44 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 07:05:44 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 07:09:22 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 07:09:22 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 07:10:42 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 07:10:42 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 08:49:39 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 08:49:39 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 09:26:20 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 09:26:20 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 09:28:29 INFO  EmployeeController:40 - Info level log goHome
+2020-06-03 09:28:29 ERROR EmployeeController:42 - Error level log goHome
+2020-06-03 09:35:39 ERROR EmployeeController:42 - Error level log goHome
